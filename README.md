@@ -7,7 +7,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=adityajalkhare&show_icons=true&count_private=true&line_height=40)
 
 <!--
-**adityajalkhare/adityaj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adityajalkhare/adityajalkhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
